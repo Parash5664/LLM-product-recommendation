@@ -1,0 +1,17 @@
+amazon_categories.csv
+amazon_categories.csv
+products_cleaned.csv
+tagged_description.txt
+.env
+__pycache__
+.venv
+db_setup.py
+eval "$(ssh-agent -s)"
+eval "$(ssh-agent -s)".pub
+gradio-dashboard.py
+models.py
+chroma_store_test
+alembic
+results
+.idea
+.gradio
